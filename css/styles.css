@@ -53,3 +53,55 @@ html{
     top: -575px;
     color: white;
 }
+.what-we-do{
+    position: relative;
+    top: -375px;
+    text-align: center;
+    margin: auto;
+    padding-left: 25px;
+}
+.what-we-do h1{
+    position: relative;
+    top: -35px;
+    text-align: center;
+}
+.what-we-do-columns{
+    width: 33%;
+    float: left;
+}
+.portfolio{
+    position: relative;    
+    top: -345px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.portfolio img{
+    width: 25%;
+    padding: 2px;
+    float: left;
+}
+.contact-us{
+    width: 100%;
+    clear: both;
+    position: relative;
+    top: -295px;
+    text-align: center;
+}
+.contact-us h1{
+    position: relative;
+    top: -605px;
+    color: white;
+}
+.contact-us input{
+    position: relative;
+    top: -605px;
+    color: white;
+    background-color: transparent ;
+}
+.bottom{
+    position: relative;
+    margin: auto;
+    top: -345px;
+    
+}
