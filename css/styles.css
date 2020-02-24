@@ -7,11 +7,6 @@ html{
     color: white;
     margin: auto;    
 }
-/*.top-bar-text{
-    position: absolute;
-    top: 0;
-    align-items: center;
-}*/
 .top-bar-logo{
     position: relative;
     top:-755px;
@@ -31,4 +26,30 @@ html{
 .top-bar p{
     position: relative;
     top: -580px;
+}
+.about-us{
+    text-align: center;
+    color: black;
+    margin: auto; 
+    position: relative;
+    top: -245px;
+}
+.services{
+    text-align: center;
+    color: white;
+    margin: auto; 
+}
+.services img{
+    position: relative;
+    top: -235px;
+}
+.services h1{
+    position: relative;
+    top: -575px;
+    color: white;
+}
+.services p{
+    position: relative;
+    top: -575px;
+    color: white;
 }
